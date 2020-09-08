@@ -1,0 +1,119 @@
+{
+  "main": {
+    "name": "Ariel Rodríguez",
+    "occupation": "Full Stack Developer and a Software Engineer",
+    "description": "Very passionate about providing innovative solutions and offering help to those who need it",
+    "image": "IMG_Ariel.jpg",
+    "bio": "Hi, my name is Ariel Rodríguez Boza, I'm a Software Engineer and a Full Stack Developer. I'm a very talented person in Software Development. I'm very committed to work and eager to continue learning. Currently working at Silcon Technology as part of an Internship",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "ariel.rrodriguez93@outlook.com",
+    "phone": "+506 8405-8115",
+    "address": {
+      "street": "La Trinidad",
+      "city": "Moravia",
+      "state": "Costa Rica",
+      "zip": "11403"
+    },
+    "website": "",
+    "resumedownload": "/public/Documents/Ariel Rodríguez CV 2020 EN.pdf",
+    "social": [
+      
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/arielrodriguez93/",
+        "className": "fa fa-linkedin"
+      },
+      
+      {
+        "name": "github",
+        "url": "http://github.com/crari93",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Catholic University of Costa Rica",
+        "degree": "Bachelor in Software Engineering",
+        "graduated": "July 2020",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Silcon Technology",
+        "title": "Internship as a Software Developer and Engineering",
+        "years": "July 2020 - Present",
+        "description": "Responsable for the Development of Solutions to Improve the User Experience."
+      }
+    ],
+    "skills": [
+      {
+        "name": "English",
+        "level": "80%",
+        "type": "Language"
+      },
+      {
+        "name": "Spanish",
+        "level": "100%",
+        "type": "Language"
+      },
+      {
+        "name": "ASP.NET Core",
+        "level": "85%",
+        "type": "Back-End"
+      },
+      {
+        "name": "ReactJs",
+        "level": "90%",
+        "type": "Back-End"
+      },
+      
+      {
+        "name": "Javascript",
+        "level": "85%",
+        "type": "Front-End"
+      },
+      {
+        "name": "CSS",
+        "level": "90%",
+        "type": "Front-End"
+      },
+      {
+        "name": "HTML5",
+        "level": "100%",
+        "type": "Front-End"
+      },
+      {
+        "name": "Microsoft SQL Server",
+        "level": "85%",
+        "type": "Data Base"
+      },
+      {
+        "name": "MySQL",
+        "level": "65%",
+        "type": "Data Base"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Academic Journals for the Catholic University of Costa Rica",
+        "category": ".NET Framework with ASP.NET MVC and MS SQL Server",
+        "image": "Revista Humanitas.png",
+        "url": "http://rhumanitas.ucatolica.ac.cr/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "He is a very committed person in his work and extremely responsible. He demonstrates great development and communication skills. I am grateful that he can be part of my work team.",
+        "user": "René Morice Castro - CEO of Silcon Technology"
+      }
+    ]
+  }
+}
