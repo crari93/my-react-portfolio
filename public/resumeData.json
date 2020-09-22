@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Ariel Rodríguez",
-    "occupation": "Full Stack Developer and a Software Engineer",
-    "description": "Very passionate about providing innovative solutions and offering help to those who need it",
+    "occupation": "Software Engineer",
+    "description": "Very passionate about providing solutions and offering help to those who need it",
     "image": "IMG_Ariel.jpg",
-    "bio": "Hi, my name is Ariel Rodríguez Boza, I'm a Software Engineer and a Full Stack Developer. I'm a very talented person in Software Development. I'm very committed to work and eager to continue learning. Currently working at Silcon Technology as part of an Internship",
+    "bio": "Hi, my name is Ariel Rodríguez Boza. I'm a Software Engineer who is very passionate about coding. I'm very committed to working with others and eager to continue learning. Currently working at Silcon Technology as part of an Internship ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "ariel.rrodriguez93@outlook.com",
     "phone": "+506 8405-8115",
@@ -17,13 +17,12 @@
     "website": "",
     "resumedownload": "/public/Documents/Ariel Rodríguez CV 2020 EN.pdf",
     "social": [
-      
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/arielrodriguez93/",
         "className": "fa fa-linkedin"
       },
-      
+
       {
         "name": "github",
         "url": "http://github.com/crari93",
@@ -51,50 +50,33 @@
     ],
     "skills": [
       {
-        "name": "English",
-        "level": "80%",
-        "type": "Language"
-      },
-      {
-        "name": "Spanish",
-        "level": "100%",
-        "type": "Language"
-      },
-      {
         "name": "ASP.NET Core",
-        "level": "85%",
-        "type": "Back-End"
+        "level": "85%"
       },
       {
         "name": "ReactJs",
-        "level": "90%",
-        "type": "Back-End"
+        "level": "80%"
       },
-      
+
       {
         "name": "Javascript",
-        "level": "85%",
-        "type": "Front-End"
+        "level": "85%"
       },
       {
         "name": "CSS",
-        "level": "90%",
-        "type": "Front-End"
+        "level": "90%"
       },
       {
         "name": "HTML5",
-        "level": "100%",
-        "type": "Front-End"
+        "level": "95%"
       },
       {
         "name": "Microsoft SQL Server",
-        "level": "85%",
-        "type": "Data Base"
+        "level": "85%"
       },
       {
         "name": "MySQL",
-        "level": "65%",
-        "type": "Data Base"
+        "level": "65%"
       }
     ]
   },

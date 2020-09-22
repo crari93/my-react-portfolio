@@ -30,8 +30,11 @@ This is a ReactJS based personal resume website template for participants of The
 
 #### All Credits Goes to Tim Baker <a href='https://github.com/tbakerx/react-resume-template'>Original Repo</a>
 
-Offered by
-<a href="https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ">Clever Programmer YouTube Channel</a>
+Project offered by
+<a href="https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ">Clever Programmer</a>
+
+Used Header and Testimonial photo credit
+<a href="https://www.linkedin.com/in/renemorice/">René Morice Castro</a>
 
 Original HTML Design Template
 <a href="https://www.styleshout.com/free-templates/ceevee/">Ceevee Template by Styleshout</a>
