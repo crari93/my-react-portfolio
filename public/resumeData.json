@@ -15,7 +15,7 @@
       "zip": "11403"
     },
     "website": "",
-    "resumedownload": "/public/Documents/Ariel Rodríguez CV 2020 EN.pdf",
+    "resumedownload": "https://1drv.ms/b/s!AlsqvfuPhzl3cVa9i_JbP6lx-3g?e=Eoipy6",
     "social": [
       {
         "name": "linkedin",
@@ -31,7 +31,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "",
+    "skillmessage": "Willing to learn new stuff",
     "education": [
       {
         "school": "Catholic University of Costa Rica",
@@ -61,14 +61,6 @@
       {
         "name": "Javascript",
         "level": "85%"
-      },
-      {
-        "name": "CSS",
-        "level": "90%"
-      },
-      {
-        "name": "HTML5",
-        "level": "95%"
       },
       {
         "name": "Microsoft SQL Server",
