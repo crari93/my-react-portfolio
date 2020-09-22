@@ -37,7 +37,7 @@
         "school": "Catholic University of Costa Rica",
         "degree": "Bachelor in Software Engineering",
         "graduated": "July 2020",
-        "description": "Graduated with Distinction"
+        "description": "Graduated with Distinction."
       }
     ],
     "work": [
@@ -45,7 +45,7 @@
         "company": "Silcon Technology",
         "title": "Internship as a Software Developer and Engineering",
         "years": "July 2020 - Present",
-        "description": "Responsable for the Development of Solutions to Improve the User Experience."
+        "description": "Part of the Software Development team."
       }
     ],
     "skills": [
@@ -87,6 +87,12 @@
         "category": ".NET Framework with ASP.NET MVC and MS SQL Server",
         "image": "Revista Humanitas.png",
         "url": "http://rhumanitas.ucatolica.ac.cr/"
+      },
+      {
+        "title": "Amazon FAKE Clone",
+        "category": "ReactJS, Firebase, Material-UI and Stripe",
+        "image": "Amazon FAKE Clone.png",
+        "url": "https://challenge-90b13.web.app/"
       }
     ]
   },
