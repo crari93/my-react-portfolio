@@ -100,15 +100,20 @@
     "projects": [
       {
         "title": "Academic Journals for the Catholic University of Costa Rica",
-        "category": ".NET Framework with ASP.NET MVC and MS SQL Server",
+        "category": "ASP.NET Framework, MVC & MS SQL Server",
         "image": "Revista Humanitas.png",
         "url": "http://rhumanitas.ucatolica.ac.cr/"
       },
       {
         "title": "Amazon FAKE Clone",
-        "category": "ReactJS, Firebase, Material-UI and Stripe",
+        "category": "ReactJS, Firebase, Material-UI & Stripe",
         "image": "Amazon FAKE Clone.png",
         "url": "https://challenge-90b13.web.app/"
+      },{
+        "title": "Done With It",
+        "category": "React Native & Expo",
+        "image": "done-with-it.png",
+        "url": "https://github.com/crari93/done-with-it"
       }
     ]
   },
