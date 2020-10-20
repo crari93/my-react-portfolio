@@ -1,11 +1,11 @@
 {
   "main": {
     "name": "Ariel Rodríguez",
-    "occupation": "Software Engineer",
-    "description": "Very passionate about providing solutions and offering help to those who need it",
+    "occupation": "Software Engineer and a Freelance Developer",
+    "description": "Very passionate about working with others to provide solutions and to help those who need it",
     "image": "IMG_Ariel.jpg",
-    "bio": "Hi, my name is Ariel Rodríguez Boza. I'm a Software Engineer who is very passionate about coding. I'm very committed to working with others and eager to continue learning. Currently working at Silcon Technology as part of an Internship ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "bio": "Hi, my name is Ariel Rodríguez Boza. I'm a Software Engineer who is very passionate about coding. I'm very committed to working with others and eager to continue learning. Currently I'm currently a freelance Developer working at Silcon Technology as part of an Internship. I'm learning how to use Telerik UI in ASP.NET Core applications and how to develop applications using React JS and React Native.",
+    "contactmessage": "Get in touch with me to receive further details.",
     "email": "ariel.rrodriguez93@outlook.com",
     "phone": "+506 8405-8115",
     "address": {
@@ -15,7 +15,7 @@
       "zip": "11403"
     },
     "website": "",
-    "resumedownload": "https://1drv.ms/b/s!AlsqvfuPhzl3cVa9i_JbP6lx-3g?e=Eoipy6",
+    "resumedownload": "https://1drv.ms/b/s!AlsqvfuPhzl3ciyRw37zJOvpjyU?e=kiFhgB",
     "social": [
       {
         "name": "linkedin",
@@ -46,18 +46,39 @@
         "title": "Internship as a Software Developer and Engineering",
         "years": "July 2020 - Present",
         "description": "Part of the Software Development team."
+      },{
+        "company": "Colegio Nacional de Educación a Distancia (CONED)",
+        "title": "Microsoft Office Professor - Basic Level",
+        "years": "August 2019 - November 2019",
+        "description": "Responsible for teaching the basic knowledge of Microsoft Excel."
+      },{
+        "company": "Consejo de Seguridad Vial (Cosevi)",
+        "title": "Transit Tickets Digitizer",
+        "years": "January 2014 - January 2015",
+        "description": "Responsible for digitizing Transit Tickets into the Web Platform."
       }
     ],
     "skills": [
       {
-        "name": "ASP.NET Core",
+        "name": "ASP.NET Core (Razor Pages & MVC)",
         "level": "85%"
       },
       {
-        "name": "ReactJs",
+        "name": "React JS",
         "level": "80%"
       },
-
+      {
+        "name": "React Native",
+        "level": "75%"
+      },
+      {
+        "name": "C#",
+        "level": "85%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
       {
         "name": "Javascript",
         "level": "85%"
@@ -69,6 +90,9 @@
       {
         "name": "MySQL",
         "level": "65%"
+      },{
+        "name": "Google Firebase",
+        "level": "50%"
       }
     ]
   },
