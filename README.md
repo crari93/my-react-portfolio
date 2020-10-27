@@ -1,6 +1,6 @@
 # My ReactJS Portfolio
 
-![ReactJS Resume Website Template](Resume-screenshot.png?raw=true "ReactJS Resume Website Template")
+![ReactJS Resume Website Template](resume-screenshot.png?raw=true "ReactJS Resume Website Template")
 
 To see the page, <a href='https://brave-pare-00cdbe.netlify.app/'>CLICK HERE</a>
 
