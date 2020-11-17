@@ -109,11 +109,18 @@
         "category": "ReactJS, Firebase, Material-UI & Stripe",
         "image": "Amazon FAKE Clone.png",
         "url": "https://challenge-90b13.web.app/"
-      },{
+      },
+      {
         "title": "Done With It",
         "category": "React Native & Expo",
         "image": "done-with-it.png",
         "url": "https://github.com/crari93/done-with-it"
+      },
+      {
+        "title": "Spotify Clone",
+        "category": "ReactJS, Material-UI & Spotify API",
+        "image": "spotify-clone.png",
+        "url": "https://silly-fermat-d925c1.netlify.app/"
       }
     ]
   },
