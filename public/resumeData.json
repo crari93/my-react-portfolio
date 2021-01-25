@@ -15,7 +15,7 @@
       "zip": "11403"
     },
     "website": "",
-    "resumedownload": "https://1drv.ms/b/s!AlsqvfuPhzl3dWBXsvnRpmTBldg?e=EpIehN",
+    "resumedownload": "https://1drv.ms/b/s!AlsqvfuPhzl3d-y7zuhbyKsSnCk?e=hF4QCt",
     "social": [
       {
         "name": "linkedin",
@@ -42,6 +42,11 @@
     ],
     "work": [
       {
+        "company": "Silcon Technology",
+        "title": "Internship in Software Development",
+        "years": "July 2020 - October 2020",
+        "description": "Responsible for helping the development team in coding, consulting data from databases, and writing documentation."
+      },{
         "company": "Colegio Nacional de Educación a Distancia (CONED)",
         "title": "Microsoft Office Professor - Basic Level",
         "years": "August 2019 - November 2019",
@@ -50,13 +55,13 @@
         "company": "Consejo de Seguridad Vial (Cosevi)",
         "title": "Transit Tickets Digitizer",
         "years": "January 2014 - January 2015",
-        "description": "Responsible for digitizing Transit Tickets into the Web Platform."
+        "description": "Responsible for digitizing at least 35 Transit Tickets into the Web Platform."
       }
     ],
     "skills": [
       {
-        "name": "ASP.NET Core (Razor Pages & MVC)",
-        "level": "85%"
+        "name": "ASP.NET (Entity Framework, Razor Pages & MVC)",
+        "level": "90%"
       },
       {
         "name": "React JS",
@@ -64,27 +69,27 @@
       },
       {
         "name": "React Native",
-        "level": "75%"
-      },
-      {
-        "name": "C#",
-        "level": "85%"
-      },
-      {
-        "name": "Java",
         "level": "70%"
       },
       {
+        "name": "C#",
+        "level": "90%"
+      },
+      {
+        "name": "Java",
+        "level": "60%"
+      },
+      {
         "name": "Javascript",
-        "level": "85%"
+        "level": "90%"
       },
       {
         "name": "Microsoft SQL Server",
-        "level": "85%"
+        "level": "90%"
       },
       {
         "name": "MySQL",
-        "level": "65%"
+        "level": "70%"
       },{
         "name": "Google Firebase",
         "level": "50%"
